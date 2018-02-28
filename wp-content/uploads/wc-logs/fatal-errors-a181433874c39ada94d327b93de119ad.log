@@ -292,3 +292,5 @@
 
 2018-02-27T10:59:45+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 20480 bytes)
 
+2018-02-28T00:37:41+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes)
+
